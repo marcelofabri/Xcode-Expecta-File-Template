@@ -18,5 +18,3 @@
 @implementation ___VARIABLE_classToTest:identifier___Tests
 
 @end
-
-
